@@ -1,0 +1,5 @@
+JMH S 31 com.example.FileExistsBenchmark S 66 com.example.jmh_generated.FileExistsBenchmark_File_canread_jmhTest S 12 File_canread S 10 Throughput E A 1 1 1 E I 1 3 E E E E E I 1 1 E E E E E E U 12 MILLISECONDS E E 
+JMH S 31 com.example.FileExistsBenchmark S 65 com.example.jmh_generated.FileExistsBenchmark_File_exists_jmhTest S 11 File_exists S 10 Throughput E A 1 1 1 E I 1 3 E E E E E I 1 1 E E E E E E U 12 MILLISECONDS E E 
+JMH S 31 com.example.FileExistsBenchmark S 65 com.example.jmh_generated.FileExistsBenchmark_File_isfile_jmhTest S 11 File_isfile S 10 Throughput E A 1 1 1 E I 1 3 E E E E E I 1 1 E E E E E E U 12 MILLISECONDS E E 
+JMH S 31 com.example.FileExistsBenchmark S 66 com.example.jmh_generated.FileExistsBenchmark_Files_exists_jmhTest S 12 Files_exists S 10 Throughput E A 1 1 1 E I 1 3 E E E E E I 1 1 E E E E E E U 12 MILLISECONDS E E 
+JMH S 31 com.example.FileExistsBenchmark S 69 com.example.jmh_generated.FileExistsBenchmark_Files_isreadble_jmhTest S 15 Files_isreadble S 10 Throughput E A 1 1 1 E I 1 3 E E E E E I 1 1 E E E E E E U 12 MILLISECONDS E E 

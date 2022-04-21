@@ -1,0 +1,10 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,com/example/FileExistsBenchmark.File_canread
+inline,com/example/FileExistsBenchmark.File_exists
+inline,com/example/FileExistsBenchmark.File_isfile
+inline,com/example/FileExistsBenchmark.Files_exists
+inline,com/example/FileExistsBenchmark.Files_isreadble

@@ -1,0 +1,12 @@
+META-INF/CompilerHints
+com/example/jmh_generated/FileExistsBenchmark_jmhType_B1.class
+com/example/jmh_generated/FileExistsBenchmark_jmhType.class
+com/example/jmh_generated/FileExistsBenchmark_File_isfile_jmhTest.class
+com/example/jmh_generated/FileExistsBenchmark_File_canread_jmhTest.class
+com/example/jmh_generated/FileExistsBenchmark_File_exists_jmhTest.class
+META-INF/BenchmarkList
+com/example/jmh_generated/FileExistsBenchmark_jmhType_B2.class
+com/example/jmh_generated/FileExistsBenchmark_Files_isreadble_jmhTest.class
+com/example/jmh_generated/FileExistsBenchmark_jmhType_B3.class
+com/example/jmh_generated/FileExistsBenchmark_Files_exists_jmhTest.class
+com/example/FileExistsBenchmark.class
